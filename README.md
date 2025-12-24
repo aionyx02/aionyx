@@ -18,5 +18,5 @@
 
 ### 📫 Connect with Me
 - **Blog**: [blog.aionyx.me](https://blog.aionyx.me)
-- **Email**: [你的Email]
+- **Email**: me@aionyx.me
 - **Discord**: aionyxhuang.

@@ -1,4 +1,7 @@
-<!-- 例：LinkedIn、Gmail、Python 技能徽章 -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](#)
-[![Gmail](https://img.shields.io/badge/Email-contact-red)](#)
-![Python](https://img.shields.io/badge/Python-3.x-informational)
+#Sat Dec 20 18:02:18 CST 2025
+BLOCK_REFLECT_QUALITY=1
+FXAA_DEFINE=-1
+LIGHTSHAFT_QUALI_DEFINE=0
+MINIMUM_LIGHT_MODE=4
+SHADOW_QUALITY=0
+shadowDistance=96.0
